@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  OpenCV_Basics_03.vcxproj -> D:\Github\VCPP_OpenCV\x64\Debug\OpenCV_Basics_03.exe
+\\192.168.0.10\public\github\vcpp_opencv\opencv_basics_03\main.cpp(1): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
